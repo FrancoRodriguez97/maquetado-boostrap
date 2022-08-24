@@ -1,3 +1,22 @@
-h1 {
-    font-size: 3rem;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ancho-carousel {
+    width: 67vw;
+    margin: auto;
+}
+
+.row {
+    justify-content: space-evenly;
+}
+
+.card {
+    background-color: bisque;
+}
+
+.color-boton {
+    background-color: coral;
 }
