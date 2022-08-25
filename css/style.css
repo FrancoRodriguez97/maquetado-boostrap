@@ -1,24 +1,42 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.ancho-carousel {
-    width: 67vw;
-    margin: auto;
-}
-
-.row {
-    justify-content: space-evenly;
-    margin: 3px;
-    ;
-}
-
-.card {
-    background-color: bisque;
-}
-
-.color-boton {
-    background-color: coral;
-}
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .ancho-carousel {
+        width: 67vw;
+        margin: auto;
+    }
+    
+    .row {
+        justify-content: space-evenly;
+        margin: 3px;
+        ;
+    }
+    
+    .card {
+        background-color: bisque;
+    }
+    
+    .color-boton {
+        background-color: coral;
+    }
+    
+    .email {
+        padding: 1%;
+    }
+    
+    .enviar {
+        margin: 1%;
+    }
+    
+    .footer {
+        background-color: bisque;
+        padding: 5px;
+        margin: 5px;
+    }
+    
+    .parrafo {
+        margin: 3%;
+    }
